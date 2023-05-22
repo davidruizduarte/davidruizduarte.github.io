@@ -39,7 +39,7 @@
           <a href="https://www.facebook.com/jettrendy">Un chatbot que ayuda a las personas con mensajes automatizados en messenger con videos de avatares en 3D</a>
         </li>
       </ul>
-    </section>
+   
     <section>
       <h2>Curriculum en Español</h2>
       <a href="https://drive.google.com/file/d/1BcdE8U_Qt49DcuxTIPdMN_26SX3pVtuL/view?usp=sharing">Descarga Mi Curriculum en Español</a>

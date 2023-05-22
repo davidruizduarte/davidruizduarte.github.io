@@ -1,7 +1,7 @@
 # davidruizduarte.github.io
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>My GitHub Page</title>

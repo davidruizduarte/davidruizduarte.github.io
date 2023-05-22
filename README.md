@@ -27,7 +27,8 @@
         </li>
         <li>
           <a href="https://www.facebook.com/jettrendy">A chatbot that helps people with automated messages in messenger with 3D avatar videos</a>
-      <h2>Mis proyectos</h2>
+    </section>
+    <h2>Mis proyectos</h2>
       <ul>
         <li>
           <a href="https://fb.watch/kGBb-mTWY8/">Un avatar 3D automatizado que responde a los usuarios con imágenes. </a>

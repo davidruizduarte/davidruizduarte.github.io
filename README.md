@@ -18,7 +18,7 @@ David Ruiz
     <section>
       <h2>About Me</h2>
       <img src="https://cdn.discordapp.com/attachments/1110038126287654966/1110038207132864665/1681955581981.png" alt="My Photo">
-      <p>I am a software engineer who loves to learn and create. I am passionate about using technology to solve problems and make the world a better place.</p>
+      <p>I'm an AI design creator who believes that anything is possible. If you can dream it, I can create it.</p>
     </section>
     <section>
       <h2>My Projects</h2>

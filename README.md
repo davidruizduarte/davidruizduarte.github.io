@@ -32,7 +32,7 @@
     </section>
     <section>
       <h2>My Curriculum</h2>
-      <a href="my-curriculum.pdf">Download My Curriculum</a>
+      <a href="https://drive.google.com/file/d/1BcdE8U_Qt49DcuxTIPdMN_26SX3pVtuL/view?usp=sharing">Download My Curriculum</a>
     </section>
     <section>
       <h2>Contact Me</h2>

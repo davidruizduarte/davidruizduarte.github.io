@@ -17,7 +17,7 @@
   <main>
     <section>
       <h2>About Me</h2>
-      <img src="https://cdn.discordapp.com/attachments/1085386097321844776/1110012029877637291/1681955581981.jpg" alt="My Photo">
+      <img src="https://cdn.discordapp.com/attachments/1110038126287654966/1110038207132864665/1681955581981.png" alt="My Photo">
       <p>I am a software engineer who loves to learn and create. I am passionate about using technology to solve problems and make the world a better place.</p>
     </section>
     <section>

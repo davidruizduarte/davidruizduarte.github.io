@@ -50,10 +50,8 @@
         <li>
         <a href="https://www.linkedin.com/in/davidrzte/">LinkedIn</a>
       </li>
-    </section>
-  </main>
+ 
   <footer>
     <p>Copyright &copy; 2023 David Ruiz</p>
   </footer>
-</body>
-</html>
+

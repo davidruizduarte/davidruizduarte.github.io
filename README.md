@@ -55,7 +55,7 @@
     </section>
   </main>
   <footer>
-    <p>Copyright &copy; 2023 My Name</p>
+    <p>Copyright &copy; 2023 David Ruiz</p>
   </footer>
 </body>
 </html>

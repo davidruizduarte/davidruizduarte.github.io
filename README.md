@@ -2,6 +2,7 @@
 
 
 
+<!DOCTYPE html>
 <html>
 <head>
   <title>My GitHub Page</title>
@@ -40,6 +41,17 @@
     <section>
       <h2>Contact Me</h2>
       <p>You can contact me at my email address or on Twitter.</p>
+      <ul>
+        <li>
+          <a href="mailto:ruizdavinci@gmail.com">ruizdavinci@gmail.com</a>
+        </li>
+        <li>
+          <a href="twitter.com/jettrendy">Twitter</a>
+        </li>
+        <li>
+          <a href="instagram.com/jettrendy">Instagram</a>
+        </li>
+      </ul>
     </section>
   </main>
   <footer>
@@ -47,4 +59,3 @@
   </footer>
 </body>
 </html>
-

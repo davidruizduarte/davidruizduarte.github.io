@@ -26,7 +26,7 @@
           <a href="my-mobile-app.com">A mobile app that helps people find and book parking</a>
         </li>
         <li>
-          <a href="my-chatbot.com">A chatbot that helps people with customer service</a>
+          <a href="https://m.facebook.com/a/preferences.php?basic_site_devices=m_basic&sr_link=1&uri=https%3A%2F%2Fm.facebook.com%2Fhome.php&gfid=AQCJLdwqASk-NdiB9C0">A chatbot that helps people with customer service</a>
         </li>
       </ul>
     </section>

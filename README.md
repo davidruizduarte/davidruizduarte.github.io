@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>David Ruiz</title>
@@ -51,7 +51,7 @@
         <a href="https://www.linkedin.com/in/davidrzte/">LinkedIn</a>
       </li>
         
-        
+
  
   <footer>
     <p>Copyright &copy; 2023 David Ruiz</p>

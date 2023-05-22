@@ -20,7 +20,7 @@
       <h2>My Projects</h2>
       <ul>
         <li>
-          <a href="https://fb.watch/kGBb-mTWY8/">An automated 3D avatar that responds to users. </a>
+          <a href="https://fb.watch/kGBb-mTWY8/">An automated 3D avatar that responds to users with images. </a>
         </li>
         <li>
           <a href="my-mobile-app.com">A mobile app that helps people find and book parking</a>

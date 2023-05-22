@@ -42,7 +42,7 @@
           <a href="my-mobile-app.com">Un avatar 3D automatizado que responde a los usuarios con música.</a>
         </li>
         <li>
-          <a href="https://www.facebook.com/jettrendy">Un Avatar 3D que responde a usuarios en Messenger con video.</a>
+          <a href="https://www.facebook.com/jettrendy">Un avatar 3D chatbot que responde a usuarios en Messenger con video.</a>
         </li>
       </ul>
     </section>

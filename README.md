@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
   <title>David Ruiz</title>
@@ -48,6 +48,9 @@
           <a href="https://www.instagram.com/jettrendy/">Instagram</a>
         </li>
       </ul>
+      <li>
+        <a href="https://www.linkedin.com/in/davidrzte/">LinkedIn</a>
+      </li>
     </section>
   </main>
   <footer>

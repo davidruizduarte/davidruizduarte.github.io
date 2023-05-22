@@ -66,3 +66,6 @@
         </li>
         <li>
           <a href="https://www.instagram.com/jettrendy/">Instagram
+         </li>
+        <li>
+          <a href="https://www.linkedin.com/in/davidrzte/">Linkedin

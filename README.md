@@ -28,6 +28,11 @@
         </li>
         <li>
           <a href="https://www.facebook.com/jettrendy">A 3D chatbot avatar that responds to users on Messenger with video</a>
+          
+        </li>
+        <li>
+          <a href="https://www.instagram.com/p/Cshxfj3OHu3/">Design of characters A.I
+(for commercial, marketing and advertising purposes)</a>
         </li>
       </ul>
     </section>

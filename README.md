@@ -46,10 +46,10 @@
           <a href="mailto:ruizdavinci@gmail.com">ruizdavinci@gmail.com</a>
         </li>
         <li>
-          <a href="twitter.com/jettrendy">Twitter</a>
+          <a href="https://twitter.com/jettrendy">Twitter</a>
         </li>
         <li>
-          <a href="instagram.com/jettrendy">Instagram</a>
+          <a href="https://www.instagram.com/jettrendy/">Instagram</a>
         </li>
       </ul>
     </section>

@@ -31,7 +31,7 @@
       </ul>
     </section>
     <section>
-      <h2>My Curriculum</h2>
+      <h2>Mi Curriculum</h2>
       <a href="https://drive.google.com/file/d/1BcdE8U_Qt49DcuxTIPdMN_26SX3pVtuL/view?usp=sharing">Descarga Mi Curriculum en Español</a>
       <h2>My Curriculum</h2>
       <a href="https://drive.google.com/file/d/1uTLMijLIUs3ih3O9aGRcbEx99K_SelW4/view?usp=sharing">Download My Curriculum in English</a>

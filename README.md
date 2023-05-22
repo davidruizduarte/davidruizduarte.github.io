@@ -45,7 +45,8 @@
           <a href="https://www.facebook.com/jettrendy">Un avatar 3D chatbot que responde a usuarios en Messenger con video.</a>
         </li>
         <li>
-          <a href="https://www.instagram.com/p/Cshxfj3OHu3/">Diseño de personajes A.I para fines comerciales,marketing y publicitarios</a>
+          <a href="https://www.instagram.com/p/Cshxfj3OHu3/">Diseño de personajes A.I
+            (para fines comerciales,marketing y publicitarios)</a>
           
           
           

@@ -31,7 +31,7 @@
           
         </li>
         <li>
-          <a href="https://www.instagram.com/p/Cshxfj3OHu3/">Design of characters A.I
+          <a href="https://www.instagram.com/p/Cshxfj3OHu3/">Design of A.I characters 
 (for commercial, marketing and advertising purposes)</a>
         </li>
       </ul>

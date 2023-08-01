@@ -11,7 +11,7 @@ Esta página es un proyecto personal para mostrar mi trabajo como creador de dis
 
 ## Enlaces
 
-- [Sitio Web en GitHub Pages](https://github.com/davidruizduarte/davidruizduarte.github.io)
+- [Sitio Web en GitHub Pages](https://davidruizduarte.github.io)
 - [Repositorio de GitHub](https://github.com/davidruizduarte/)
 
 ## Acerca de mí

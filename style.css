@@ -23,4 +23,7 @@ h1, h2, h3, h4 {
 }
 
 img {
-  max-width
+  max-width: 100%;
+}
+
+/* Agrega más estilos CSS personalizados según sea necesario */

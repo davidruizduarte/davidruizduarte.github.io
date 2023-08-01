@@ -6,8 +6,16 @@ Esta página es un proyecto personal para mostrar mi trabajo como creador de dis
 
 ## Enlaces
 
-- [Sitio Web en GitHub Pages](https://davidruiz.github.io)
-- [Repositorio de GitHub](https://github.com/davidruiz/mi-repo)
+- [Sitio Web en GitHub Pages](# Página Web de David Ruiz
+
+¡Bienvenido a mi página web!
+
+Esta página es un proyecto personal para mostrar mi trabajo como creador de diseño AI.
+
+## Enlaces
+
+- [Sitio Web en GitHub Pages](davidruizduarte.github.io)
+- [Repositorio de GitHub](https://github.com/davidruiz/)
 
 ## Acerca de mí
 
@@ -18,6 +26,7 @@ Soy un apasionado creador de diseño AI y amo la tecnología futurista.
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme por correo electrónico o en mis redes sociales.
 
 - Email: david@example.com
-- Twitter: [@davidruiz](https://twitter.com/davidruiz)
-- LinkedIn: [David Ruiz](https://www.linkedin.com/in/davidruiz)
+- Twitter: [@davidruiz](https://twitter.com/jettrendy)
+- LinkedIn: [David Ruiz](https://www.linkedin.com/in/davidrzte)
+
 

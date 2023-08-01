@@ -5,10 +5,6 @@
 Esta página es un proyecto personal para mostrar mi trabajo como creador de diseño AI.
 
 
-¡Bienvenido a mi página web!
-
-Esta página es un proyecto personal para mostrar mi trabajo como creador de diseño AI.
-
 ## Enlaces
 
 - [Sitio Web en GitHub Pages](https://davidruizduarte.github.io)

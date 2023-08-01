@@ -1,6 +1,5 @@
-/* CSS styles go here */
-/* Add your styles to enhance the appearance of the page */
-/* For example: */
+* Los estilos personalizados van aquí */
+/* Por ejemplo: */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -11,19 +10,15 @@ header {
   background-color: #333;
   color: #fff;
   text-align: center;
-  padding: 20px;
+  padding: 2rem 0;
 }
 
-h1 {
-  margin: 0;
+h1, h2, h3, h4 {
+  color: #333;
 }
 
-h2 {
-  margin: 0;
+img {
+  max-width: 100%;
 }
 
-main {
-  padding: 20px;
-}
-
-/* Add more CSS styles as needed */
+/* Agrega más estilos CSS personalizados según sea necesario */

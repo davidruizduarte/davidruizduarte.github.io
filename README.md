@@ -18,7 +18,7 @@ Soy un apasionado creador de diseño AI y amo la tecnología futurista.
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme por correo electrónico o en mis redes sociales.
 
-- Email: ruizdavinci@gmail.com 
+- Email: hola@jettrendy.tech
 - Twitter: [@jettrendy](https://twitter.com/jettrendy)
 - LinkedIn: [David Ruiz](https://www.linkedin.com/in/davidrzte)
 

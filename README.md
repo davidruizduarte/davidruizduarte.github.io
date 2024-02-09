@@ -12,7 +12,7 @@ Esta página es un proyecto personal para mostrar mi trabajo como creador de dis
 
 ## Acerca de mí
 
-Soy un apasionado creador de diseño AI y amo la tecnología futurista..
+Soy un apasionado creador de diseño AI y amo la tecnología futurista.
 
 ## Contacto
 
